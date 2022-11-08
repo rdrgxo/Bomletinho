@@ -1,3 +1,1053 @@
-1666803827879	geckodriver	INFO	Listening on 127.0.0.1:61569
-1666803871470	geckodriver	INFO	Listening on 127.0.0.1:61588
-1666803937697	geckodriver	INFO	Listening on 127.0.0.1:61667
+1667575332887	geckodriver	INFO	Listening on 127.0.0.1:62285
+1667575335963	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "62286" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\RODRIG~1.MEN\\AppData\\Local\\Temp\\rust_mozprofile6aJgjy"
+1667575336275	Marionette	INFO	Marionette enabled
+1667575336279	Marionette	INFO	Listening on port 62295
+Read port: 62295
+WebDriver BiDi listening on ws://127.0.0.1:62286
+1667575336413	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\RODRIG~1.MEN\\AppData\\Local\\Temp\\rust_mozprofile6aJgjy\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:62286/devtools/browser/cbd3a4e7-d22d-4375-872b-9dcbc47b8dc3
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://app.empresas.bs2.com."
+JavaScript error: resource://gre/modules/LoginManagerChild.jsm, line 113: NS_NOINTERFACE: Component returned failure code: 0x80004002 (NS_NOINTERFACE) [nsIWebProgress.DOMWindow]
+JavaScript error: resource://gre/modules/LoginManagerChild.jsm, line 113: NS_NOINTERFACE: Component returned failure code: 0x80004002 (NS_NOINTERFACE) [nsIWebProgress.DOMWindow]
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://app.empresas.bs2.com."
+1667575597639	Marionette	INFO	Stopped listening on port 62295
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1667575649739	geckodriver	INFO	Listening on 127.0.0.1:62648
+1667575652795	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "62649" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\RODRIG~1.MEN\\AppData\\Local\\Temp\\rust_mozprofileQmNz0M"
+1667575653081	Marionette	INFO	Marionette enabled
+1667575653085	Marionette	INFO	Listening on port 62658
+Read port: 62658
+WebDriver BiDi listening on ws://127.0.0.1:62649
+1667575653217	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\RODRIG~1.MEN\\AppData\\Local\\Temp\\rust_mozprofileQmNz0M\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:62649/devtools/browser/af55e509-1413-4be2-8a30-2b692f2f03b5
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://app.empresas.bs2.com."
+JavaScript error: resource://gre/modules/LoginManagerChild.jsm, line 113: NS_NOINTERFACE: Component returned failure code: 0x80004002 (NS_NOINTERFACE) [nsIWebProgress.DOMWindow]
+JavaScript error: resource://gre/modules/LoginManagerChild.jsm, line 113: NS_NOINTERFACE: Component returned failure code: 0x80004002 (NS_NOINTERFACE) [nsIWebProgress.DOMWindow]
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://app.empresas.bs2.com."
+1667575822798	Marionette	INFO	Stopped listening on port 62658
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1667575829654	geckodriver	INFO	Listening on 127.0.0.1:62960
+1667575832727	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "62961" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\RODRIG~1.MEN\\AppData\\Local\\Temp\\rust_mozprofilenH8RXd"
+1667575833036	Marionette	INFO	Marionette enabled
+1667575833039	Marionette	INFO	Listening on port 62970
+Read port: 62970
+WebDriver BiDi listening on ws://127.0.0.1:62961
+1667575833172	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\RODRIG~1.MEN\\AppData\\Local\\Temp\\rust_mozprofilenH8RXd\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:62961/devtools/browser/25fe6aa9-04fb-4a5e-9950-b7cb952b8fec
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://app.empresas.bs2.com."
+JavaScript error: resource://gre/modules/LoginManagerChild.jsm, line 113: NS_NOINTERFACE: Component returned failure code: 0x80004002 (NS_NOINTERFACE) [nsIWebProgress.DOMWindow]
+JavaScript error: resource://gre/modules/LoginManagerChild.jsm, line 113: NS_NOINTERFACE: Component returned failure code: 0x80004002 (NS_NOINTERFACE) [nsIWebProgress.DOMWindow]
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://app.empresas.bs2.com."
+1667575919143	geckodriver	INFO	Listening on 127.0.0.1:63265
+1667575922206	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "63266" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\RODRIG~1.MEN\\AppData\\Local\\Temp\\rust_mozprofileJzjARF"
+1667575922508	Marionette	INFO	Marionette enabled
+1667575922512	Marionette	INFO	Listening on port 63277
+Read port: 63277
+WebDriver BiDi listening on ws://127.0.0.1:63266
+1667575922651	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\RODRIG~1.MEN\\AppData\\Local\\Temp\\rust_mozprofileJzjARF\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:63266/devtools/browser/da82c5a7-514e-435e-b850-d66c63c8ca38
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://app.empresas.bs2.com."
+JavaScript error: resource://gre/modules/LoginManagerChild.jsm, line 113: NS_NOINTERFACE: Component returned failure code: 0x80004002 (NS_NOINTERFACE) [nsIWebProgress.DOMWindow]
+JavaScript error: resource://gre/modules/LoginManagerChild.jsm, line 113: NS_NOINTERFACE: Component returned failure code: 0x80004002 (NS_NOINTERFACE) [nsIWebProgress.DOMWindow]
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://app.empresas.bs2.com."
+1667575980197	geckodriver	INFO	Listening on 127.0.0.1:63559
+1667575983256	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "63560" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\RODRIG~1.MEN\\AppData\\Local\\Temp\\rust_mozprofileeC9F9s"
+1667575983561	Marionette	INFO	Marionette enabled
+1667575983565	Marionette	INFO	Listening on port 63569
+Read port: 63569
+WebDriver BiDi listening on ws://127.0.0.1:63560
+1667575983697	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\RODRIG~1.MEN\\AppData\\Local\\Temp\\rust_mozprofileeC9F9s\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:63560/devtools/browser/64576884-88e0-4d98-ac74-55afa2dd298a
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://app.empresas.bs2.com."
+JavaScript error: resource://gre/modules/LoginManagerChild.jsm, line 113: NS_NOINTERFACE: Component returned failure code: 0x80004002 (NS_NOINTERFACE) [nsIWebProgress.DOMWindow]
+JavaScript error: resource://gre/modules/LoginManagerChild.jsm, line 113: NS_NOINTERFACE: Component returned failure code: 0x80004002 (NS_NOINTERFACE) [nsIWebProgress.DOMWindow]
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://app.empresas.bs2.com."
+1667576061978	Marionette	INFO	Stopped listening on port 63569
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1667576189782	geckodriver	INFO	Listening on 127.0.0.1:63975
+1667576192854	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "63976" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\RODRIG~1.MEN\\AppData\\Local\\Temp\\rust_mozprofileudavRp"
+1667576193139	Marionette	INFO	Marionette enabled
+1667576193143	Marionette	INFO	Listening on port 63988
+Read port: 63988
+WebDriver BiDi listening on ws://127.0.0.1:63976
+1667576193279	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\RODRIG~1.MEN\\AppData\\Local\\Temp\\rust_mozprofileudavRp\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:63976/devtools/browser/8f5b699b-8122-44de-8b6e-c11e5b7ab9d7
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://app.empresas.bs2.com."
+JavaScript error: resource://gre/modules/LoginManagerChild.jsm, line 113: NS_NOINTERFACE: Component returned failure code: 0x80004002 (NS_NOINTERFACE) [nsIWebProgress.DOMWindow]
+JavaScript error: resource://gre/modules/LoginManagerChild.jsm, line 113: NS_NOINTERFACE: Component returned failure code: 0x80004002 (NS_NOINTERFACE) [nsIWebProgress.DOMWindow]
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://app.empresas.bs2.com."
+1667576230195	geckodriver	INFO	Listening on 127.0.0.1:64268
+1667576233385	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "64269" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\RODRIG~1.MEN\\AppData\\Local\\Temp\\rust_mozprofileJIdLPR"
+1667576233801	Marionette	INFO	Marionette enabled
+1667576233806	Marionette	INFO	Listening on port 64281
+Read port: 64281
+WebDriver BiDi listening on ws://127.0.0.1:64269
+1667576233957	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\RODRIG~1.MEN\\AppData\\Local\\Temp\\rust_mozprofileJIdLPR\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:64269/devtools/browser/be6729d5-35e1-405a-bb10-bfe9d854ad54
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://app.empresas.bs2.com."
+JavaScript error: resource://gre/modules/LoginManagerChild.jsm, line 113: NS_NOINTERFACE: Component returned failure code: 0x80004002 (NS_NOINTERFACE) [nsIWebProgress.DOMWindow]
+JavaScript error: resource://gre/modules/LoginManagerChild.jsm, line 113: NS_NOINTERFACE: Component returned failure code: 0x80004002 (NS_NOINTERFACE) [nsIWebProgress.DOMWindow]
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://app.empresas.bs2.com."
+1667576310746	Marionette	INFO	Stopped listening on port 64281
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1667576610693	geckodriver	INFO	Listening on 127.0.0.1:64605
+1667576613763	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "64606" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\RODRIG~1.MEN\\AppData\\Local\\Temp\\rust_mozprofileVwuj5R"
+1667576614042	Marionette	INFO	Marionette enabled
+1667576614046	Marionette	INFO	Listening on port 64615
+Read port: 64615
+WebDriver BiDi listening on ws://127.0.0.1:64606
+1667576614182	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\RODRIG~1.MEN\\AppData\\Local\\Temp\\rust_mozprofileVwuj5R\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:64606/devtools/browser/e6da60a7-be5e-49e3-929f-5a8850bfa0cd
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://app.empresas.bs2.com."
+JavaScript error: resource://gre/modules/LoginManagerChild.jsm, line 113: NS_NOINTERFACE: Component returned failure code: 0x80004002 (NS_NOINTERFACE) [nsIWebProgress.DOMWindow]
+JavaScript error: resource://gre/modules/LoginManagerChild.jsm, line 113: NS_NOINTERFACE: Component returned failure code: 0x80004002 (NS_NOINTERFACE) [nsIWebProgress.DOMWindow]
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://app.empresas.bs2.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: file://."
+1667576905189	geckodriver	INFO	Listening on 127.0.0.1:64873
+1667576908279	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "64874" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\RODRIG~1.MEN\\AppData\\Local\\Temp\\rust_mozprofile2PGZFb"
+1667576908562	Marionette	INFO	Marionette enabled
+1667576908566	Marionette	INFO	Listening on port 64884
+Read port: 64884
+WebDriver BiDi listening on ws://127.0.0.1:64874
+1667576908700	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\RODRIG~1.MEN\\AppData\\Local\\Temp\\rust_mozprofile2PGZFb\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:64874/devtools/browser/46caf17b-63c2-41eb-9b53-3f6c757b7e3c
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://app.empresas.bs2.com."
+JavaScript error: resource://gre/modules/LoginManagerChild.jsm, line 113: NS_NOINTERFACE: Component returned failure code: 0x80004002 (NS_NOINTERFACE) [nsIWebProgress.DOMWindow]
+JavaScript error: resource://gre/modules/LoginManagerChild.jsm, line 113: NS_NOINTERFACE: Component returned failure code: 0x80004002 (NS_NOINTERFACE) [nsIWebProgress.DOMWindow]
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://app.empresas.bs2.com."
+1667577016015	Marionette	INFO	Stopped listening on port 64884
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1667577022484	geckodriver	INFO	Listening on 127.0.0.1:65116
+1667577025566	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "65117" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\RODRIG~1.MEN\\AppData\\Local\\Temp\\rust_mozprofile1bBJxx"
+1667577025845	Marionette	INFO	Marionette enabled
+1667577025849	Marionette	INFO	Listening on port 65126
+Read port: 65126
+WebDriver BiDi listening on ws://127.0.0.1:65117
+1667577025985	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\RODRIG~1.MEN\\AppData\\Local\\Temp\\rust_mozprofile1bBJxx\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:65117/devtools/browser/39deb17b-ab67-4971-8402-a09f8f941c35
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://app.empresas.bs2.com."
+JavaScript error: resource://gre/modules/LoginManagerChild.jsm, line 113: NS_NOINTERFACE: Component returned failure code: 0x80004002 (NS_NOINTERFACE) [nsIWebProgress.DOMWindow]
+JavaScript error: resource://gre/modules/LoginManagerChild.jsm, line 113: NS_NOINTERFACE: Component returned failure code: 0x80004002 (NS_NOINTERFACE) [nsIWebProgress.DOMWindow]
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://app.empresas.bs2.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: file://."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: file://."
+1667577185394	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:236:24
+TimedPromise@chrome://remote/content/marionette/sync.js:221:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1667588733069	geckodriver	INFO	Listening on 127.0.0.1:51567
+1667588736103	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "51568" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\RODRIG~1.MEN\\AppData\\Local\\Temp\\rust_mozprofilenzFRuW"
+1667588736420	Marionette	INFO	Marionette enabled
+1667588736423	Marionette	INFO	Listening on port 51581
+Read port: 51581
+WebDriver BiDi listening on ws://127.0.0.1:51568
+1667588736560	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\RODRIG~1.MEN\\AppData\\Local\\Temp\\rust_mozprofilenzFRuW\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:51568/devtools/browser/c1047bb9-1caf-45f6-8a44-06d6da92dc24
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://app.empresas.bs2.com."
+JavaScript error: resource://gre/modules/LoginManagerChild.jsm, line 113: NS_NOINTERFACE: Component returned failure code: 0x80004002 (NS_NOINTERFACE) [nsIWebProgress.DOMWindow]
+JavaScript error: resource://gre/modules/LoginManagerChild.jsm, line 113: NS_NOINTERFACE: Component returned failure code: 0x80004002 (NS_NOINTERFACE) [nsIWebProgress.DOMWindow]
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://app.empresas.bs2.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: file://."
+1667588914399	geckodriver	INFO	Listening on 127.0.0.1:51832
+1667588917464	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "51833" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\RODRIG~1.MEN\\AppData\\Local\\Temp\\rust_mozprofileIny159"
+1667588917758	Marionette	INFO	Marionette enabled
+1667588917762	Marionette	INFO	Listening on port 51842
+WebDriver BiDi listening on ws://127.0.0.1:51833
+Read port: 51842
+1667588918276	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\RODRIG~1.MEN\\AppData\\Local\\Temp\\rust_mozprofileIny159\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:51833/devtools/browser/c7c21922-45d6-41ee-b773-4d7b2ecbce1e
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://app.empresas.bs2.com."
+JavaScript error: resource://gre/modules/LoginManagerChild.jsm, line 113: NS_NOINTERFACE: Component returned failure code: 0x80004002 (NS_NOINTERFACE) [nsIWebProgress.DOMWindow]
+JavaScript error: resource://gre/modules/LoginManagerChild.jsm, line 113: NS_NOINTERFACE: Component returned failure code: 0x80004002 (NS_NOINTERFACE) [nsIWebProgress.DOMWindow]
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://app.empresas.bs2.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: file://."
+1667589485752	Marionette	INFO	Stopped listening on port 51842
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1667590252360	geckodriver	INFO	Listening on 127.0.0.1:52691
+1667590255430	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "52692" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\RODRIG~1.MEN\\AppData\\Local\\Temp\\rust_mozprofileSm8OXA"
+1667590255738	Marionette	INFO	Marionette enabled
+1667590255742	Marionette	INFO	Listening on port 52702
+Read port: 52702
+WebDriver BiDi listening on ws://127.0.0.1:52692
+1667590255874	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\RODRIG~1.MEN\\AppData\\Local\\Temp\\rust_mozprofileSm8OXA\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:52692/devtools/browser/9e9a1b8e-69bb-4caf-9b4f-aa55e996298c
+1667590275783	geckodriver	INFO	Listening on 127.0.0.1:52767
+1667590278864	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "52768" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\RODRIG~1.MEN\\AppData\\Local\\Temp\\rust_mozprofileCc7KoV"
+1667590279138	Marionette	INFO	Marionette enabled
+1667590279142	Marionette	INFO	Listening on port 52778
+Read port: 52778
+WebDriver BiDi listening on ws://127.0.0.1:52768
+1667590279276	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\RODRIG~1.MEN\\AppData\\Local\\Temp\\rust_mozprofileCc7KoV\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:52768/devtools/browser/fd5f440b-b9a0-47e5-a573-0bf87f00cb04
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://app.empresas.bs2.com."
+JavaScript error: resource://gre/modules/LoginManagerChild.jsm, line 113: NS_NOINTERFACE: Component returned failure code: 0x80004002 (NS_NOINTERFACE) [nsIWebProgress.DOMWindow]
+JavaScript error: resource://gre/modules/LoginManagerChild.jsm, line 113: NS_NOINTERFACE: Component returned failure code: 0x80004002 (NS_NOINTERFACE) [nsIWebProgress.DOMWindow]
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://app.empresas.bs2.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: file://."
+1667590396763	Marionette	INFO	Stopped listening on port 52778
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1667590700576	geckodriver	INFO	Listening on 127.0.0.1:55157
+1667590707408	geckodriver	INFO	Listening on 127.0.0.1:55172
+1667590710510	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "55173" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\RODRIG~1.MEN\\AppData\\Local\\Temp\\rust_mozprofilekdFnEq"
+1667590710794	Marionette	INFO	Marionette enabled
+1667590710798	Marionette	INFO	Listening on port 55182
+Read port: 55182
+WebDriver BiDi listening on ws://127.0.0.1:55173
+1667590710930	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\RODRIG~1.MEN\\AppData\\Local\\Temp\\rust_mozprofilekdFnEq\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:55173/devtools/browser/9169583b-09ef-4c6f-9d24-319aca1cbe3f
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://app.empresas.bs2.com."
+JavaScript error: resource://gre/modules/LoginManagerChild.jsm, line 113: NS_NOINTERFACE: Component returned failure code: 0x80004002 (NS_NOINTERFACE) [nsIWebProgress.DOMWindow]
+JavaScript error: resource://gre/modules/LoginManagerChild.jsm, line 113: NS_NOINTERFACE: Component returned failure code: 0x80004002 (NS_NOINTERFACE) [nsIWebProgress.DOMWindow]
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://app.empresas.bs2.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: file://."
+1667823395778	geckodriver	INFO	Listening on 127.0.0.1:61228
+1667823398900	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "61229" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\RODRIG~1.MEN\\AppData\\Local\\Temp\\rust_mozprofileRWgKt7"
+1667823399326	Marionette	INFO	Marionette enabled
+1667823399330	Marionette	INFO	Listening on port 61240
+Read port: 61240
+WebDriver BiDi listening on ws://127.0.0.1:61229
+1667823399487	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\RODRIG~1.MEN\\AppData\\Local\\Temp\\rust_mozprofileRWgKt7\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:61229/devtools/browser/15ecef69-780c-4f02-8c0d-bce252c34211
+1667823402046	Marionette	INFO	Stopped listening on port 61240
+1667823457522	geckodriver	INFO	Listening on 127.0.0.1:61299
+1667823460610	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "61300" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\RODRIG~1.MEN\\AppData\\Local\\Temp\\rust_mozprofileDH7mtf"
+1667823460921	Marionette	INFO	Marionette enabled
+1667823460926	Marionette	INFO	Listening on port 61314
+Read port: 61314
+WebDriver BiDi listening on ws://127.0.0.1:61300
+1667823461062	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\RODRIG~1.MEN\\AppData\\Local\\Temp\\rust_mozprofileDH7mtf\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:61300/devtools/browser/009fe433-bbbd-4618-bae9-cff71cbc3f78
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://app.empresas.bs2.com."
+JavaScript error: resource://gre/modules/LoginManagerChild.jsm, line 113: NS_NOINTERFACE: Component returned failure code: 0x80004002 (NS_NOINTERFACE) [nsIWebProgress.DOMWindow]
+JavaScript error: resource://gre/modules/LoginManagerChild.jsm, line 113: NS_NOINTERFACE: Component returned failure code: 0x80004002 (NS_NOINTERFACE) [nsIWebProgress.DOMWindow]
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://app.empresas.bs2.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: file://."
+1667823617464	Marionette	INFO	Stopped listening on port 61314
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1667823646337	geckodriver	INFO	Listening on 127.0.0.1:61606
+1667823649416	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "61608" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\RODRIG~1.MEN\\AppData\\Local\\Temp\\rust_mozprofile8VGj52"
+1667823649697	Marionette	INFO	Marionette enabled
+1667823649701	Marionette	INFO	Listening on port 61618
+Read port: 61618
+WebDriver BiDi listening on ws://127.0.0.1:61608
+1667823649834	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\RODRIG~1.MEN\\AppData\\Local\\Temp\\rust_mozprofile8VGj52\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:61608/devtools/browser/e95bdd90-f3f0-4fcd-8ace-d007fa65e4f4
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://app.empresas.bs2.com."
+JavaScript error: resource://gre/modules/LoginManagerChild.jsm, line 113: NS_NOINTERFACE: Component returned failure code: 0x80004002 (NS_NOINTERFACE) [nsIWebProgress.DOMWindow]
+JavaScript error: resource://gre/modules/LoginManagerChild.jsm, line 113: NS_NOINTERFACE: Component returned failure code: 0x80004002 (NS_NOINTERFACE) [nsIWebProgress.DOMWindow]
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://app.empresas.bs2.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: file://."
+1667823765966	Marionette	INFO	Stopped listening on port 61618
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1667841957030	geckodriver	INFO	Listening on 127.0.0.1:55675
+1667841960102	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "55676" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\RODRIG~1.MEN\\AppData\\Local\\Temp\\rust_mozprofilelebwGK"
+1667841960438	Marionette	INFO	Marionette enabled
+1667841960442	Marionette	INFO	Listening on port 55686
+WebDriver BiDi listening on ws://127.0.0.1:55676
+Read port: 55686
+1667841960734	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\RODRIG~1.MEN\\AppData\\Local\\Temp\\rust_mozprofilelebwGK\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:55676/devtools/browser/292c7626-3e84-4f63-8632-a65f7792fce2
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://app.empresas.bs2.com."
+JavaScript error: resource://gre/modules/LoginManagerChild.jsm, line 113: NS_NOINTERFACE: Component returned failure code: 0x80004002 (NS_NOINTERFACE) [nsIWebProgress.DOMWindow]
+JavaScript error: resource://gre/modules/LoginManagerChild.jsm, line 113: NS_NOINTERFACE: Component returned failure code: 0x80004002 (NS_NOINTERFACE) [nsIWebProgress.DOMWindow]
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://app.empresas.bs2.com."
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1667843572917	Marionette	INFO	Stopped listening on port 55686
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1667844647850	geckodriver	INFO	Listening on 127.0.0.1:56702
+1667844650951	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "56703" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\RODRIG~1.MEN\\AppData\\Local\\Temp\\rust_mozprofilesTPvWY"
+1667844651269	Marionette	INFO	Marionette enabled
+1667844651273	Marionette	INFO	Listening on port 56712
+Read port: 56712
+WebDriver BiDi listening on ws://127.0.0.1:56703
+1667844651406	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\RODRIG~1.MEN\\AppData\\Local\\Temp\\rust_mozprofilesTPvWY\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:56703/devtools/browser/107852d9-bf1a-4681-bfb4-413f08d53aa0
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://app.empresas.bs2.com."
+JavaScript error: resource://gre/modules/LoginManagerChild.jsm, line 113: NS_NOINTERFACE: Component returned failure code: 0x80004002 (NS_NOINTERFACE) [nsIWebProgress.DOMWindow]
+JavaScript error: resource://gre/modules/LoginManagerChild.jsm, line 113: NS_NOINTERFACE: Component returned failure code: 0x80004002 (NS_NOINTERFACE) [nsIWebProgress.DOMWindow]
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://app.empresas.bs2.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: file://."
+1667845128067	geckodriver	INFO	Listening on 127.0.0.1:57114
+1667845131160	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "57115" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\RODRIG~1.MEN\\AppData\\Local\\Temp\\rust_mozprofile8o2ap7"
+1667845131455	Marionette	INFO	Marionette enabled
+1667845131459	Marionette	INFO	Listening on port 57124
+Read port: 57124
+WebDriver BiDi listening on ws://127.0.0.1:57115
+1667845131592	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\RODRIG~1.MEN\\AppData\\Local\\Temp\\rust_mozprofile8o2ap7\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:57115/devtools/browser/de17af54-d25f-42f5-8f08-1929f2a18999
+1667845133554	Marionette	INFO	Stopped listening on port 57124
+console.error: services.settings: 
+  main/query-stripping Signature failed  TypeError: NetworkError: Network request failed
+1667845192065	geckodriver	INFO	Listening on 127.0.0.1:57175
+1667845195154	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "57176" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\RODRIG~1.MEN\\AppData\\Local\\Temp\\rust_mozprofile6h6gH6"
+1667845195430	Marionette	INFO	Marionette enabled
+1667845195434	Marionette	INFO	Listening on port 57185
+Read port: 57185
+WebDriver BiDi listening on ws://127.0.0.1:57176
+1667845195566	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\RODRIG~1.MEN\\AppData\\Local\\Temp\\rust_mozprofile6h6gH6\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:57176/devtools/browser/65d8faa6-8558-4c60-acc2-f1a70e888bc8
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://app.empresas.bs2.com."
+JavaScript error: resource://gre/modules/LoginManagerChild.jsm, line 113: NS_NOINTERFACE: Component returned failure code: 0x80004002 (NS_NOINTERFACE) [nsIWebProgress.DOMWindow]
+JavaScript error: resource://gre/modules/LoginManagerChild.jsm, line 113: NS_NOINTERFACE: Component returned failure code: 0x80004002 (NS_NOINTERFACE) [nsIWebProgress.DOMWindow]
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://app.empresas.bs2.com."
+1667845222195	Marionette	INFO	Stopped listening on port 57185
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1667845227830	geckodriver	INFO	Listening on 127.0.0.1:57369
+1667845230930	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "57370" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\RODRIG~1.MEN\\AppData\\Local\\Temp\\rust_mozprofileD2GVij"
+1667845231217	Marionette	INFO	Marionette enabled
+1667845231221	Marionette	INFO	Listening on port 57380
+Read port: 57380
+WebDriver BiDi listening on ws://127.0.0.1:57370
+1667845231354	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\RODRIG~1.MEN\\AppData\\Local\\Temp\\rust_mozprofileD2GVij\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:57370/devtools/browser/d02e8662-5fbf-47c5-a31d-7799e0054490
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://app.empresas.bs2.com."
+JavaScript error: resource://gre/modules/LoginManagerChild.jsm, line 113: NS_NOINTERFACE: Component returned failure code: 0x80004002 (NS_NOINTERFACE) [nsIWebProgress.DOMWindow]
+JavaScript error: resource://gre/modules/LoginManagerChild.jsm, line 113: NS_NOINTERFACE: Component returned failure code: 0x80004002 (NS_NOINTERFACE) [nsIWebProgress.DOMWindow]
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://app.empresas.bs2.com."
+1667845283255	geckodriver	INFO	Listening on 127.0.0.1:57658
+1667845286331	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "57659" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\RODRIG~1.MEN\\AppData\\Local\\Temp\\rust_mozprofilepODNer"
+1667845286610	Marionette	INFO	Marionette enabled
+1667845286614	Marionette	INFO	Listening on port 57668
+Read port: 57668
+WebDriver BiDi listening on ws://127.0.0.1:57659
+1667845286755	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\RODRIG~1.MEN\\AppData\\Local\\Temp\\rust_mozprofilepODNer\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:57659/devtools/browser/762327d0-cd22-4a2a-baf6-93a6c241765b
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://app.empresas.bs2.com."
+JavaScript error: resource://gre/modules/LoginManagerChild.jsm, line 113: NS_NOINTERFACE: Component returned failure code: 0x80004002 (NS_NOINTERFACE) [nsIWebProgress.DOMWindow]
+JavaScript error: resource://gre/modules/LoginManagerChild.jsm, line 113: NS_NOINTERFACE: Component returned failure code: 0x80004002 (NS_NOINTERFACE) [nsIWebProgress.DOMWindow]
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://app.empresas.bs2.com."
+1667845306104	Marionette	INFO	Stopped listening on port 57668
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1667845327437	geckodriver	INFO	Listening on 127.0.0.1:57838
+1667845330504	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "57839" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\RODRIG~1.MEN\\AppData\\Local\\Temp\\rust_mozprofileBpw3zI"
+1667845330783	Marionette	INFO	Marionette enabled
+1667845330787	Marionette	INFO	Listening on port 57848
+Read port: 57848
+WebDriver BiDi listening on ws://127.0.0.1:57839
+1667845330923	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\RODRIG~1.MEN\\AppData\\Local\\Temp\\rust_mozprofileBpw3zI\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:57839/devtools/browser/764265fb-cf4a-4805-babd-f4d5e95740c7
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://app.empresas.bs2.com."
+JavaScript error: resource://gre/modules/LoginManagerChild.jsm, line 113: NS_NOINTERFACE: Component returned failure code: 0x80004002 (NS_NOINTERFACE) [nsIWebProgress.DOMWindow]
+JavaScript error: resource://gre/modules/LoginManagerChild.jsm, line 113: NS_NOINTERFACE: Component returned failure code: 0x80004002 (NS_NOINTERFACE) [nsIWebProgress.DOMWindow]
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://app.empresas.bs2.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: file://."
+1667845464489	Marionette	INFO	Stopped listening on port 57848
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1667846189294	geckodriver	INFO	Listening on 127.0.0.1:58461
+1667846192358	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "58462" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\RODRIG~1.MEN\\AppData\\Local\\Temp\\rust_mozprofilePZc5SI"
+1667846192647	Marionette	INFO	Marionette enabled
+1667846192651	Marionette	INFO	Listening on port 58478
+Read port: 58478
+WebDriver BiDi listening on ws://127.0.0.1:58462
+1667846192784	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\RODRIG~1.MEN\\AppData\\Local\\Temp\\rust_mozprofilePZc5SI\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:58462/devtools/browser/cd26b020-e026-43e7-8086-4f2eba8b515b
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://app.empresas.bs2.com."
+JavaScript error: resource://gre/modules/LoginManagerChild.jsm, line 113: NS_NOINTERFACE: Component returned failure code: 0x80004002 (NS_NOINTERFACE) [nsIWebProgress.DOMWindow]
+JavaScript error: resource://gre/modules/LoginManagerChild.jsm, line 113: NS_NOINTERFACE: Component returned failure code: 0x80004002 (NS_NOINTERFACE) [nsIWebProgress.DOMWindow]
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://app.empresas.bs2.com."
+1667846208761	geckodriver	INFO	Listening on 127.0.0.1:58617
+1667846211866	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "58618" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\RODRIG~1.MEN\\AppData\\Local\\Temp\\rust_mozprofileIHZzzU"
+1667846212157	Marionette	INFO	Marionette enabled
+1667846212161	Marionette	INFO	Listening on port 58634
+Read port: 58634
+WebDriver BiDi listening on ws://127.0.0.1:58618
+1667846212296	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\RODRIG~1.MEN\\AppData\\Local\\Temp\\rust_mozprofileIHZzzU\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:58618/devtools/browser/85be399d-287e-4cd8-a1b6-8c787b75dfcd
+1667846237916	geckodriver	INFO	Listening on 127.0.0.1:58730
+1667846240998	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "58731" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\RODRIG~1.MEN\\AppData\\Local\\Temp\\rust_mozprofilePlZhhw"
+1667846241287	Marionette	INFO	Marionette enabled
+1667846241290	Marionette	INFO	Listening on port 58740
+Read port: 58740
+WebDriver BiDi listening on ws://127.0.0.1:58731
+1667846241424	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\RODRIG~1.MEN\\AppData\\Local\\Temp\\rust_mozprofilePlZhhw\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:58731/devtools/browser/3e51ffa4-aed9-473d-ad8c-c95b1efe324c
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://app.empresas.bs2.com."
+JavaScript error: resource://gre/modules/LoginManagerChild.jsm, line 113: NS_NOINTERFACE: Component returned failure code: 0x80004002 (NS_NOINTERFACE) [nsIWebProgress.DOMWindow]
+JavaScript error: resource://gre/modules/LoginManagerChild.jsm, line 113: NS_NOINTERFACE: Component returned failure code: 0x80004002 (NS_NOINTERFACE) [nsIWebProgress.DOMWindow]
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://app.empresas.bs2.com."
+1667846329417	geckodriver	INFO	Listening on 127.0.0.1:59013
+1667846332497	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "59014" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\RODRIG~1.MEN\\AppData\\Local\\Temp\\rust_mozprofilebZtoFJ"
+1667846332806	Marionette	INFO	Marionette enabled
+1667846332810	Marionette	INFO	Listening on port 59023
+Read port: 59023
+WebDriver BiDi listening on ws://127.0.0.1:59014
+1667846332947	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\RODRIG~1.MEN\\AppData\\Local\\Temp\\rust_mozprofilebZtoFJ\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:59014/devtools/browser/3fa8cc65-fcc9-4c1c-a97e-32cfb135bad5
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://app.empresas.bs2.com."
+JavaScript error: resource://gre/modules/LoginManagerChild.jsm, line 113: NS_NOINTERFACE: Component returned failure code: 0x80004002 (NS_NOINTERFACE) [nsIWebProgress.DOMWindow]
+JavaScript error: resource://gre/modules/LoginManagerChild.jsm, line 113: NS_NOINTERFACE: Component returned failure code: 0x80004002 (NS_NOINTERFACE) [nsIWebProgress.DOMWindow]
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://app.empresas.bs2.com."
+1667846403903	geckodriver	INFO	Listening on 127.0.0.1:59298
+1667846406974	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "59299" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\RODRIG~1.MEN\\AppData\\Local\\Temp\\rust_mozprofilemw43dA"
+1667846407291	Marionette	INFO	Marionette enabled
+1667846407294	Marionette	INFO	Listening on port 59311
+Read port: 59311
+WebDriver BiDi listening on ws://127.0.0.1:59299
+1667846407429	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\RODRIG~1.MEN\\AppData\\Local\\Temp\\rust_mozprofilemw43dA\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:59299/devtools/browser/dbd81115-19a4-4a39-816a-1403f7bf9179
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://app.empresas.bs2.com."
+JavaScript error: resource://gre/modules/LoginManagerChild.jsm, line 113: NS_NOINTERFACE: Component returned failure code: 0x80004002 (NS_NOINTERFACE) [nsIWebProgress.DOMWindow]
+JavaScript error: resource://gre/modules/LoginManagerChild.jsm, line 113: NS_NOINTERFACE: Component returned failure code: 0x80004002 (NS_NOINTERFACE) [nsIWebProgress.DOMWindow]
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://app.empresas.bs2.com."
+1667846431975	Marionette	INFO	Stopped listening on port 59311
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1667846437657	geckodriver	INFO	Listening on 127.0.0.1:59508
+1667846440752	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "59509" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\RODRIG~1.MEN\\AppData\\Local\\Temp\\rust_mozprofileRQzQV2"
+1667846441029	Marionette	INFO	Marionette enabled
+1667846441033	Marionette	INFO	Listening on port 59518
+Read port: 59518
+WebDriver BiDi listening on ws://127.0.0.1:59509
+1667846441167	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\RODRIG~1.MEN\\AppData\\Local\\Temp\\rust_mozprofileRQzQV2\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:59509/devtools/browser/bc12f4b4-22a7-425c-816d-65a2a07202f8
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://app.empresas.bs2.com."
+JavaScript error: resource://gre/modules/LoginManagerChild.jsm, line 113: NS_NOINTERFACE: Component returned failure code: 0x80004002 (NS_NOINTERFACE) [nsIWebProgress.DOMWindow]
+JavaScript error: resource://gre/modules/LoginManagerChild.jsm, line 113: NS_NOINTERFACE: Component returned failure code: 0x80004002 (NS_NOINTERFACE) [nsIWebProgress.DOMWindow]
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://app.empresas.bs2.com."
+1667846879889	geckodriver	INFO	Listening on 127.0.0.1:59890
+1667846882999	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "59891" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\RODRIG~1.MEN\\AppData\\Local\\Temp\\rust_mozprofileyRgKJ5"
+1667846883297	Marionette	INFO	Marionette enabled
+1667846883301	Marionette	INFO	Listening on port 59902
+Read port: 59902
+WebDriver BiDi listening on ws://127.0.0.1:59891
+1667846883434	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\RODRIG~1.MEN\\AppData\\Local\\Temp\\rust_mozprofileyRgKJ5\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:59891/devtools/browser/a12f65ff-78c7-4b12-9c0d-f451a7b036a7
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://app.empresas.bs2.com."
+JavaScript error: resource://gre/modules/LoginManagerChild.jsm, line 113: NS_NOINTERFACE: Component returned failure code: 0x80004002 (NS_NOINTERFACE) [nsIWebProgress.DOMWindow]
+JavaScript error: resource://gre/modules/LoginManagerChild.jsm, line 113: NS_NOINTERFACE: Component returned failure code: 0x80004002 (NS_NOINTERFACE) [nsIWebProgress.DOMWindow]
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://app.empresas.bs2.com."
+1667846932278	Marionette	INFO	Stopped listening on port 59902
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1667853439477	geckodriver	INFO	Listening on 127.0.0.1:50722
+1667853442568	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "50723" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\RODRIG~1.MEN\\AppData\\Local\\Temp\\rust_mozprofileTSPoNP"
+1667853442956	Marionette	INFO	Marionette enabled
+1667853442961	Marionette	INFO	Listening on port 50735
+Read port: 50735
+WebDriver BiDi listening on ws://127.0.0.1:50723
+1667853443117	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\RODRIG~1.MEN\\AppData\\Local\\Temp\\rust_mozprofileTSPoNP\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:50723/devtools/browser/a37288c9-979f-45e8-9fb8-5e0e08f7d31c
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://app.empresas.bs2.com."
+JavaScript error: resource://gre/modules/LoginManagerChild.jsm, line 113: NS_NOINTERFACE: Component returned failure code: 0x80004002 (NS_NOINTERFACE) [nsIWebProgress.DOMWindow]
+JavaScript error: resource://gre/modules/LoginManagerChild.jsm, line 113: NS_NOINTERFACE: Component returned failure code: 0x80004002 (NS_NOINTERFACE) [nsIWebProgress.DOMWindow]
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://app.empresas.bs2.com."
+1667853524368	geckodriver	INFO	Listening on 127.0.0.1:51026
+1667853527430	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "51027" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\RODRIG~1.MEN\\AppData\\Local\\Temp\\rust_mozprofilez72pgn"
+1667853527728	Marionette	INFO	Marionette enabled
+1667853527732	Marionette	INFO	Listening on port 51038
+Read port: 51038
+WebDriver BiDi listening on ws://127.0.0.1:51027
+1667853527865	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\RODRIG~1.MEN\\AppData\\Local\\Temp\\rust_mozprofilez72pgn\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:51027/devtools/browser/2a319770-3d22-47e5-a758-d9b0f9d7d684
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://app.empresas.bs2.com."
+JavaScript error: resource://gre/modules/LoginManagerChild.jsm, line 113: NS_NOINTERFACE: Component returned failure code: 0x80004002 (NS_NOINTERFACE) [nsIWebProgress.DOMWindow]
+JavaScript error: resource://gre/modules/LoginManagerChild.jsm, line 113: NS_NOINTERFACE: Component returned failure code: 0x80004002 (NS_NOINTERFACE) [nsIWebProgress.DOMWindow]
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://app.empresas.bs2.com."
+1667853646642	geckodriver	INFO	Listening on 127.0.0.1:51370
+1667853649736	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "51371" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\RODRIG~1.MEN\\AppData\\Local\\Temp\\rust_mozprofileoYDt3J"
+1667853650031	Marionette	INFO	Marionette enabled
+1667853650035	Marionette	INFO	Listening on port 51380
+Read port: 51380
+WebDriver BiDi listening on ws://127.0.0.1:51371
+1667853650170	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\RODRIG~1.MEN\\AppData\\Local\\Temp\\rust_mozprofileoYDt3J\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:51371/devtools/browser/b637f0c7-ee7d-4e33-ae8c-306011046131
+1667853659219	Marionette	INFO	Stopped listening on port 51380
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1667853664358	geckodriver	INFO	Listening on 127.0.0.1:51456
+1667853667462	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "51457" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\RODRIG~1.MEN\\AppData\\Local\\Temp\\rust_mozprofile8JVz5q"
+1667853667748	Marionette	INFO	Marionette enabled
+1667853667752	Marionette	INFO	Listening on port 51470
+Read port: 51470
+WebDriver BiDi listening on ws://127.0.0.1:51457
+1667853667884	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\RODRIG~1.MEN\\AppData\\Local\\Temp\\rust_mozprofile8JVz5q\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:51457/devtools/browser/0c7d79a3-2eb9-4b6e-ba00-0ffa4d0dee5f
+1667853676657	Marionette	INFO	Stopped listening on port 51470
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1667853681491	geckodriver	INFO	Listening on 127.0.0.1:51548
+1667853684705	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "51549" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\RODRIG~1.MEN\\AppData\\Local\\Temp\\rust_mozprofile7giuDL"
+1667853684988	Marionette	INFO	Marionette enabled
+1667853684992	Marionette	INFO	Listening on port 51558
+Read port: 51558
+WebDriver BiDi listening on ws://127.0.0.1:51549
+1667853685124	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\RODRIG~1.MEN\\AppData\\Local\\Temp\\rust_mozprofile7giuDL\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:51549/devtools/browser/ab1208fe-dba6-4161-a216-b9ec61900db3
+1667853720170	geckodriver	INFO	Listening on 127.0.0.1:51596
+1667853723215	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "51597" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\RODRIG~1.MEN\\AppData\\Local\\Temp\\rust_mozprofilePHZZLx"
+1667853723521	Marionette	INFO	Marionette enabled
+1667853723525	Marionette	INFO	Listening on port 51607
+Read port: 51607
+WebDriver BiDi listening on ws://127.0.0.1:51597
+1667853723661	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\RODRIG~1.MEN\\AppData\\Local\\Temp\\rust_mozprofilePHZZLx\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:51597/devtools/browser/81226212-1d58-4319-ae0f-d06f77b0ef73
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://app.empresas.bs2.com."
+JavaScript error: resource://gre/modules/LoginManagerChild.jsm, line 113: NS_NOINTERFACE: Component returned failure code: 0x80004002 (NS_NOINTERFACE) [nsIWebProgress.DOMWindow]
+JavaScript error: resource://gre/modules/LoginManagerChild.jsm, line 113: NS_NOINTERFACE: Component returned failure code: 0x80004002 (NS_NOINTERFACE) [nsIWebProgress.DOMWindow]
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://app.empresas.bs2.com."
+1667853805498	geckodriver	INFO	Listening on 127.0.0.1:51897
+1667853808681	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "51898" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\RODRIG~1.MEN\\AppData\\Local\\Temp\\rust_mozprofile4po1lW"
+1667853809105	Marionette	INFO	Marionette enabled
+1667853809109	Marionette	INFO	Listening on port 51907
+WebDriver BiDi listening on ws://127.0.0.1:51898
+Read port: 51907
+1667853809408	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\RODRIG~1.MEN\\AppData\\Local\\Temp\\rust_mozprofile4po1lW\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:51898/devtools/browser/50292771-f639-4f04-bea5-ff49e40b3425
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://app.empresas.bs2.com."
+JavaScript error: resource://gre/modules/LoginManagerChild.jsm, line 113: NS_NOINTERFACE: Component returned failure code: 0x80004002 (NS_NOINTERFACE) [nsIWebProgress.DOMWindow]
+JavaScript error: resource://gre/modules/LoginManagerChild.jsm, line 113: NS_NOINTERFACE: Component returned failure code: 0x80004002 (NS_NOINTERFACE) [nsIWebProgress.DOMWindow]
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://app.empresas.bs2.com."
+1667853862387	geckodriver	INFO	Listening on 127.0.0.1:52183
+1667853865455	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "52184" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\RODRIG~1.MEN\\AppData\\Local\\Temp\\rust_mozprofileAm4q68"
+1667853865745	Marionette	INFO	Marionette enabled
+1667853865749	Marionette	INFO	Listening on port 52193
+Read port: 52193
+WebDriver BiDi listening on ws://127.0.0.1:52184
+1667853865881	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\RODRIG~1.MEN\\AppData\\Local\\Temp\\rust_mozprofileAm4q68\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:52184/devtools/browser/ffa360cb-7a77-4b7d-b51a-abba01acfc89
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://app.empresas.bs2.com."
+JavaScript error: resource://gre/modules/LoginManagerChild.jsm, line 113: NS_NOINTERFACE: Component returned failure code: 0x80004002 (NS_NOINTERFACE) [nsIWebProgress.DOMWindow]
+JavaScript error: resource://gre/modules/LoginManagerChild.jsm, line 113: NS_NOINTERFACE: Component returned failure code: 0x80004002 (NS_NOINTERFACE) [nsIWebProgress.DOMWindow]
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://app.empresas.bs2.com."
+1667853932429	Marionette	INFO	Stopped listening on port 52193
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1667853938250	geckodriver	INFO	Listening on 127.0.0.1:52579
+1667853941296	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "52580" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\RODRIG~1.MEN\\AppData\\Local\\Temp\\rust_mozprofileIBewib"
+1667853941579	Marionette	INFO	Marionette enabled
+1667853941583	Marionette	INFO	Listening on port 52607
+Read port: 52607
+WebDriver BiDi listening on ws://127.0.0.1:52580
+1667853941718	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\RODRIG~1.MEN\\AppData\\Local\\Temp\\rust_mozprofileIBewib\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:52580/devtools/browser/755e424b-18d2-41e8-ae68-9c5934e43c19
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://app.empresas.bs2.com."
+JavaScript error: resource://gre/modules/LoginManagerChild.jsm, line 113: NS_NOINTERFACE: Component returned failure code: 0x80004002 (NS_NOINTERFACE) [nsIWebProgress.DOMWindow]
+JavaScript error: resource://gre/modules/LoginManagerChild.jsm, line 113: NS_NOINTERFACE: Component returned failure code: 0x80004002 (NS_NOINTERFACE) [nsIWebProgress.DOMWindow]
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://app.empresas.bs2.com."
+1667854000922	Marionette	INFO	Stopped listening on port 52607
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1667854017296	geckodriver	INFO	Listening on 127.0.0.1:52893
+1667854020368	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "52894" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\RODRIG~1.MEN\\AppData\\Local\\Temp\\rust_mozprofileMIc1cc"
+1667854020671	Marionette	INFO	Marionette enabled
+1667854020675	Marionette	INFO	Listening on port 52903
+Read port: 52903
+WebDriver BiDi listening on ws://127.0.0.1:52894
+1667854020808	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\RODRIG~1.MEN\\AppData\\Local\\Temp\\rust_mozprofileMIc1cc\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:52894/devtools/browser/f24d09d3-c673-440d-93ab-c2a0cc0321ba
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://app.empresas.bs2.com."
+JavaScript error: resource://gre/modules/LoginManagerChild.jsm, line 113: NS_NOINTERFACE: Component returned failure code: 0x80004002 (NS_NOINTERFACE) [nsIWebProgress.DOMWindow]
+JavaScript error: resource://gre/modules/LoginManagerChild.jsm, line 113: NS_NOINTERFACE: Component returned failure code: 0x80004002 (NS_NOINTERFACE) [nsIWebProgress.DOMWindow]
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://app.empresas.bs2.com."
+1667854131321	geckodriver	INFO	Listening on 127.0.0.1:53195
+1667854134423	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "53196" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\RODRIG~1.MEN\\AppData\\Local\\Temp\\rust_mozprofileryKFGx"
+1667854134717	Marionette	INFO	Marionette enabled
+1667854134721	Marionette	INFO	Listening on port 53205
+Read port: 53205
+WebDriver BiDi listening on ws://127.0.0.1:53196
+1667854134853	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\RODRIG~1.MEN\\AppData\\Local\\Temp\\rust_mozprofileryKFGx\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:53196/devtools/browser/e984192a-b071-4763-b89c-d12fadd953fc
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://app.empresas.bs2.com."
+JavaScript error: resource://gre/modules/LoginManagerChild.jsm, line 113: NS_NOINTERFACE: Component returned failure code: 0x80004002 (NS_NOINTERFACE) [nsIWebProgress.DOMWindow]
+JavaScript error: resource://gre/modules/LoginManagerChild.jsm, line 113: NS_NOINTERFACE: Component returned failure code: 0x80004002 (NS_NOINTERFACE) [nsIWebProgress.DOMWindow]
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://app.empresas.bs2.com."
+1667854208986	Marionette	INFO	Stopped listening on port 53205
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1667854214518	geckodriver	INFO	Listening on 127.0.0.1:53490
+1667854217633	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "53491" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\RODRIG~1.MEN\\AppData\\Local\\Temp\\rust_mozprofileq5i2eC"
+1667854217918	Marionette	INFO	Marionette enabled
+1667854217922	Marionette	INFO	Listening on port 53503
+Read port: 53503
+WebDriver BiDi listening on ws://127.0.0.1:53491
+1667854218055	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\RODRIG~1.MEN\\AppData\\Local\\Temp\\rust_mozprofileq5i2eC\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:53491/devtools/browser/9b8efba8-3e86-4ea4-8fee-a9f94b527738
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://app.empresas.bs2.com."
+JavaScript error: resource://gre/modules/LoginManagerChild.jsm, line 113: NS_NOINTERFACE: Component returned failure code: 0x80004002 (NS_NOINTERFACE) [nsIWebProgress.DOMWindow]
+JavaScript error: resource://gre/modules/LoginManagerChild.jsm, line 113: NS_NOINTERFACE: Component returned failure code: 0x80004002 (NS_NOINTERFACE) [nsIWebProgress.DOMWindow]
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://app.empresas.bs2.com."
+1667854354511	geckodriver	INFO	Listening on 127.0.0.1:53834
+1667854357580	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "53835" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\RODRIG~1.MEN\\AppData\\Local\\Temp\\rust_mozprofilebn3N2c"
+1667854357889	Marionette	INFO	Marionette enabled
+1667854357893	Marionette	INFO	Listening on port 53845
+Read port: 53845
+WebDriver BiDi listening on ws://127.0.0.1:53835
+1667854358039	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\RODRIG~1.MEN\\AppData\\Local\\Temp\\rust_mozprofilebn3N2c\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:53835/devtools/browser/baabe2a3-856c-4e7d-9c0b-5c6e84c9b165
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://app.empresas.bs2.com."
+JavaScript error: resource://gre/modules/LoginManagerChild.jsm, line 113: NS_NOINTERFACE: Component returned failure code: 0x80004002 (NS_NOINTERFACE) [nsIWebProgress.DOMWindow]
+JavaScript error: resource://gre/modules/LoginManagerChild.jsm, line 113: NS_NOINTERFACE: Component returned failure code: 0x80004002 (NS_NOINTERFACE) [nsIWebProgress.DOMWindow]
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://app.empresas.bs2.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: file://."
+1667854546479	geckodriver	INFO	Listening on 127.0.0.1:54259
+1667854549543	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "54260" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\RODRIG~1.MEN\\AppData\\Local\\Temp\\rust_mozprofileFiRZ7f"
+1667854549838	Marionette	INFO	Marionette enabled
+1667854549842	Marionette	INFO	Listening on port 54271
+Read port: 54271
+WebDriver BiDi listening on ws://127.0.0.1:54260
+1667854549983	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\RODRIG~1.MEN\\AppData\\Local\\Temp\\rust_mozprofileFiRZ7f\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:54260/devtools/browser/640d8079-ed19-49bb-a5dd-8bc05f08c672
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://app.empresas.bs2.com."
+JavaScript error: resource://gre/modules/LoginManagerChild.jsm, line 113: NS_NOINTERFACE: Component returned failure code: 0x80004002 (NS_NOINTERFACE) [nsIWebProgress.DOMWindow]
+JavaScript error: resource://gre/modules/LoginManagerChild.jsm, line 113: NS_NOINTERFACE: Component returned failure code: 0x80004002 (NS_NOINTERFACE) [nsIWebProgress.DOMWindow]
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://app.empresas.bs2.com."
+1667854616792	geckodriver	INFO	Listening on 127.0.0.1:54581
+1667854619877	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "54582" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\RODRIG~1.MEN\\AppData\\Local\\Temp\\rust_mozprofile0AVeWj"
+1667854620165	Marionette	INFO	Marionette enabled
+1667854620169	Marionette	INFO	Listening on port 54596
+Read port: 54596
+WebDriver BiDi listening on ws://127.0.0.1:54582
+1667854620318	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\RODRIG~1.MEN\\AppData\\Local\\Temp\\rust_mozprofile0AVeWj\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:54582/devtools/browser/ac8b1e68-3650-445f-8e2d-9a38b5f55fb9
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://app.empresas.bs2.com."
+JavaScript error: resource://gre/modules/LoginManagerChild.jsm, line 113: NS_NOINTERFACE: Component returned failure code: 0x80004002 (NS_NOINTERFACE) [nsIWebProgress.DOMWindow]
+JavaScript error: resource://gre/modules/LoginManagerChild.jsm, line 113: NS_NOINTERFACE: Component returned failure code: 0x80004002 (NS_NOINTERFACE) [nsIWebProgress.DOMWindow]
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://app.empresas.bs2.com."
+1667854710666	geckodriver	INFO	Listening on 127.0.0.1:54918
+1667854713762	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "54919" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\RODRIG~1.MEN\\AppData\\Local\\Temp\\rust_mozprofile0KLSzH"
+1667854714053	Marionette	INFO	Marionette enabled
+1667854714057	Marionette	INFO	Listening on port 54934
+Read port: 54934
+WebDriver BiDi listening on ws://127.0.0.1:54919
+1667854714191	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\RODRIG~1.MEN\\AppData\\Local\\Temp\\rust_mozprofile0KLSzH\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:54919/devtools/browser/7b1fe20f-3487-478d-9578-9b80ad9274cf
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://app.empresas.bs2.com."
+JavaScript error: resource://gre/modules/LoginManagerChild.jsm, line 113: NS_NOINTERFACE: Component returned failure code: 0x80004002 (NS_NOINTERFACE) [nsIWebProgress.DOMWindow]
+JavaScript error: resource://gre/modules/LoginManagerChild.jsm, line 113: NS_NOINTERFACE: Component returned failure code: 0x80004002 (NS_NOINTERFACE) [nsIWebProgress.DOMWindow]
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://app.empresas.bs2.com."
+1667854731159	Marionette	INFO	Stopped listening on port 54934
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1667854741245	geckodriver	INFO	Listening on 127.0.0.1:55105
+1667854744346	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "55106" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\RODRIG~1.MEN\\AppData\\Local\\Temp\\rust_mozprofileBqUxZx"
+1667854744626	Marionette	INFO	Marionette enabled
+1667854744630	Marionette	INFO	Listening on port 55116
+Read port: 55116
+WebDriver BiDi listening on ws://127.0.0.1:55106
+1667854744765	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\RODRIG~1.MEN\\AppData\\Local\\Temp\\rust_mozprofileBqUxZx\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:55106/devtools/browser/2202759c-358b-4ca9-886d-bb79238910f2
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://app.empresas.bs2.com."
+JavaScript error: resource://gre/modules/LoginManagerChild.jsm, line 113: NS_NOINTERFACE: Component returned failure code: 0x80004002 (NS_NOINTERFACE) [nsIWebProgress.DOMWindow]
+JavaScript error: resource://gre/modules/LoginManagerChild.jsm, line 113: NS_NOINTERFACE: Component returned failure code: 0x80004002 (NS_NOINTERFACE) [nsIWebProgress.DOMWindow]
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://app.empresas.bs2.com."
+1667854849725	Marionette	INFO	Stopped listening on port 55116
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1667854855427	geckodriver	INFO	Listening on 127.0.0.1:55461
+1667854858505	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "55462" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\RODRIG~1.MEN\\AppData\\Local\\Temp\\rust_mozprofile7wkn8I"
+1667854858813	Marionette	INFO	Marionette enabled
+1667854858817	Marionette	INFO	Listening on port 55475
+Read port: 55475
+WebDriver BiDi listening on ws://127.0.0.1:55462
+1667854858958	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\RODRIG~1.MEN\\AppData\\Local\\Temp\\rust_mozprofile7wkn8I\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:55462/devtools/browser/fbebd5fd-2243-444c-98e2-43b57797b31e
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://app.empresas.bs2.com."
+JavaScript error: resource://gre/modules/LoginManagerChild.jsm, line 113: NS_NOINTERFACE: Component returned failure code: 0x80004002 (NS_NOINTERFACE) [nsIWebProgress.DOMWindow]
+JavaScript error: resource://gre/modules/LoginManagerChild.jsm, line 113: NS_NOINTERFACE: Component returned failure code: 0x80004002 (NS_NOINTERFACE) [nsIWebProgress.DOMWindow]
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://app.empresas.bs2.com."
+1667854935017	Marionette	INFO	Stopped listening on port 55475
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+[Parent 10448, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1667908132644	geckodriver	INFO	Listening on 127.0.0.1:61017
+1667908135784	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "61018" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\RODRIG~1.MEN\\AppData\\Local\\Temp\\rust_mozprofileKfdA8W"
+1667908136134	Marionette	INFO	Marionette enabled
+1667908136139	Marionette	INFO	Listening on port 61029
+Read port: 61029
+WebDriver BiDi listening on ws://127.0.0.1:61018
+1667908136397	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\RODRIG~1.MEN\\AppData\\Local\\Temp\\rust_mozprofileKfdA8W\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:61018/devtools/browser/bbf460de-2548-45d0-b309-5b88ea368ab5
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://app.empresas.bs2.com."
+JavaScript error: resource://gre/modules/LoginManagerChild.jsm, line 113: NS_NOINTERFACE: Component returned failure code: 0x80004002 (NS_NOINTERFACE) [nsIWebProgress.DOMWindow]
+JavaScript error: resource://gre/modules/LoginManagerChild.jsm, line 113: NS_NOINTERFACE: Component returned failure code: 0x80004002 (NS_NOINTERFACE) [nsIWebProgress.DOMWindow]
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://app.empresas.bs2.com."
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1667908229460	Marionette	INFO	Stopped listening on port 61029
+1667908232736	geckodriver	INFO	Listening on 127.0.0.1:61306
+1667908235851	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "61307" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\RODRIG~1.MEN\\AppData\\Local\\Temp\\rust_mozprofileiNzgOl"
+1667908236147	Marionette	INFO	Marionette enabled
+1667908236151	Marionette	INFO	Listening on port 61319
+Read port: 61319
+WebDriver BiDi listening on ws://127.0.0.1:61307
+1667908236295	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\RODRIG~1.MEN\\AppData\\Local\\Temp\\rust_mozprofileiNzgOl\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:61307/devtools/browser/57e7b2d5-7a4e-47d1-bfcf-7e5dc12d8f06
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://app.empresas.bs2.com."
+JavaScript error: resource://gre/modules/LoginManagerChild.jsm, line 113: NS_NOINTERFACE: Component returned failure code: 0x80004002 (NS_NOINTERFACE) [nsIWebProgress.DOMWindow]
+JavaScript error: resource://gre/modules/LoginManagerChild.jsm, line 113: NS_NOINTERFACE: Component returned failure code: 0x80004002 (NS_NOINTERFACE) [nsIWebProgress.DOMWindow]
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://app.empresas.bs2.com."
+1667908272025	Marionette	INFO	Stopped listening on port 61319
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1667908361288	geckodriver	INFO	Listening on 127.0.0.1:61596
+1667908364379	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "61597" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\RODRIG~1.MEN\\AppData\\Local\\Temp\\rust_mozprofile5jgSml"
+1667908364660	Marionette	INFO	Marionette enabled
+1667908364664	Marionette	INFO	Listening on port 61606
+Read port: 61606
+WebDriver BiDi listening on ws://127.0.0.1:61597
+1667908364809	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\RODRIG~1.MEN\\AppData\\Local\\Temp\\rust_mozprofile5jgSml\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:61597/devtools/browser/a4ae4bb6-3bb5-40a9-a2f5-400cd113214a
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://app.empresas.bs2.com."
+JavaScript error: resource://gre/modules/LoginManagerChild.jsm, line 113: NS_NOINTERFACE: Component returned failure code: 0x80004002 (NS_NOINTERFACE) [nsIWebProgress.DOMWindow]
+JavaScript error: resource://gre/modules/LoginManagerChild.jsm, line 113: NS_NOINTERFACE: Component returned failure code: 0x80004002 (NS_NOINTERFACE) [nsIWebProgress.DOMWindow]
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://app.empresas.bs2.com."
+1667908421545	Marionette	INFO	Stopped listening on port 61606
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: resource://gre/modules/CrashManager.jsm, line 905: AbortError: IOUtils: Shutting down and refusing additional I/O tasks
+1667908426909	geckodriver	INFO	Listening on 127.0.0.1:61890
+1667908430204	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "61891" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\RODRIG~1.MEN\\AppData\\Local\\Temp\\rust_mozprofilecnlaAT"
+1667908430486	Marionette	INFO	Marionette enabled
+1667908430491	Marionette	INFO	Listening on port 61900
+Read port: 61900
+WebDriver BiDi listening on ws://127.0.0.1:61891
+1667908430633	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\RODRIG~1.MEN\\AppData\\Local\\Temp\\rust_mozprofilecnlaAT\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:61891/devtools/browser/c8462f1b-9071-44aa-baa3-ecda44d70292
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://app.empresas.bs2.com."
+JavaScript error: resource://gre/modules/LoginManagerChild.jsm, line 113: NS_NOINTERFACE: Component returned failure code: 0x80004002 (NS_NOINTERFACE) [nsIWebProgress.DOMWindow]
+JavaScript error: resource://gre/modules/LoginManagerChild.jsm, line 113: NS_NOINTERFACE: Component returned failure code: 0x80004002 (NS_NOINTERFACE) [nsIWebProgress.DOMWindow]
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://app.empresas.bs2.com."
+1667909019467	geckodriver	INFO	Listening on 127.0.0.1:61181
+1667909022551	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "61182" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\RODRIG~1.MEN\\AppData\\Local\\Temp\\rust_mozprofileSMDOOx"
+1667909022850	Marionette	INFO	Marionette enabled
+1667909022854	Marionette	INFO	Listening on port 61193
+Read port: 61193
+WebDriver BiDi listening on ws://127.0.0.1:61182
+1667909022996	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\RODRIG~1.MEN\\AppData\\Local\\Temp\\rust_mozprofileSMDOOx\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:61182/devtools/browser/3ddd61c6-33fa-472d-9648-6efe2d58225b
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://app.empresas.bs2.com."
+JavaScript error: resource://gre/modules/LoginManagerChild.jsm, line 113: NS_NOINTERFACE: Component returned failure code: 0x80004002 (NS_NOINTERFACE) [nsIWebProgress.DOMWindow]
+JavaScript error: resource://gre/modules/LoginManagerChild.jsm, line 113: NS_NOINTERFACE: Component returned failure code: 0x80004002 (NS_NOINTERFACE) [nsIWebProgress.DOMWindow]
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://app.empresas.bs2.com."
+1667911618391	geckodriver	INFO	Listening on 127.0.0.1:62927
+1667911621470	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "62928" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\RODRIG~1.MEN\\AppData\\Local\\Temp\\rust_mozprofileKrPby2"
+1667911621781	Marionette	INFO	Marionette enabled
+1667911621786	Marionette	INFO	Listening on port 62937
+Read port: 62937
+WebDriver BiDi listening on ws://127.0.0.1:62928
+1667911621939	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\RODRIG~1.MEN\\AppData\\Local\\Temp\\rust_mozprofileKrPby2\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:62928/devtools/browser/238d01f5-e824-4d25-b1b5-1d2945417701
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://app.empresas.bs2.com."
+JavaScript error: resource://gre/modules/LoginManagerChild.jsm, line 113: NS_NOINTERFACE: Component returned failure code: 0x80004002 (NS_NOINTERFACE) [nsIWebProgress.DOMWindow]
+JavaScript error: resource://gre/modules/LoginManagerChild.jsm, line 113: NS_NOINTERFACE: Component returned failure code: 0x80004002 (NS_NOINTERFACE) [nsIWebProgress.DOMWindow]
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://app.empresas.bs2.com."
+1667911679224	Marionette	INFO	Stopped listening on port 62937
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+[Parent 8040, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1667913049821	geckodriver	INFO	Listening on 127.0.0.1:64851
+1667913052908	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "64852" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\RODRIG~1.MEN\\AppData\\Local\\Temp\\rust_mozprofileM1o6KD"
+1667913053250	Marionette	INFO	Marionette enabled
+1667913053254	Marionette	INFO	Listening on port 64861
+Read port: 64861
+WebDriver BiDi listening on ws://127.0.0.1:64852
+1667913053400	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\RODRIG~1.MEN\\AppData\\Local\\Temp\\rust_mozprofileM1o6KD\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:64852/devtools/browser/86f95d6d-f011-44b5-a760-cc14c3884a1e
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://app.empresas.bs2.com."
+JavaScript error: resource://gre/modules/LoginManagerChild.jsm, line 113: NS_NOINTERFACE: Component returned failure code: 0x80004002 (NS_NOINTERFACE) [nsIWebProgress.DOMWindow]
+JavaScript error: resource://gre/modules/LoginManagerChild.jsm, line 113: NS_NOINTERFACE: Component returned failure code: 0x80004002 (NS_NOINTERFACE) [nsIWebProgress.DOMWindow]
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://app.empresas.bs2.com."
+1667913121172	Marionette	INFO	Stopped listening on port 64861
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+[Parent 20936, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1667913135815	geckodriver	INFO	Listening on 127.0.0.1:65146
+1667913138858	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "65147" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\RODRIG~1.MEN\\AppData\\Local\\Temp\\rust_mozprofilefNqvTG"
+1667913139140	Marionette	INFO	Marionette enabled
+1667913139144	Marionette	INFO	Listening on port 65156
+Read port: 65156
+WebDriver BiDi listening on ws://127.0.0.1:65147
+1667913139287	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\RODRIG~1.MEN\\AppData\\Local\\Temp\\rust_mozprofilefNqvTG\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:65147/devtools/browser/35cc9c8e-aa3c-473a-adf3-7785cf259ffd
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://app.empresas.bs2.com."
+JavaScript error: resource://gre/modules/LoginManagerChild.jsm, line 113: NS_NOINTERFACE: Component returned failure code: 0x80004002 (NS_NOINTERFACE) [nsIWebProgress.DOMWindow]
+JavaScript error: resource://gre/modules/LoginManagerChild.jsm, line 113: NS_NOINTERFACE: Component returned failure code: 0x80004002 (NS_NOINTERFACE) [nsIWebProgress.DOMWindow]
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://app.empresas.bs2.com."
+1667913192845	Marionette	INFO	Stopped listening on port 65156
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1667913232512	geckodriver	INFO	Listening on 127.0.0.1:65459
+1667913235604	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "65460" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\RODRIG~1.MEN\\AppData\\Local\\Temp\\rust_mozprofileOp19ME"
+1667913235883	Marionette	INFO	Marionette enabled
+1667913235887	Marionette	INFO	Listening on port 65471
+Read port: 65471
+WebDriver BiDi listening on ws://127.0.0.1:65460
+1667913236029	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\RODRIG~1.MEN\\AppData\\Local\\Temp\\rust_mozprofileOp19ME\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:65460/devtools/browser/5961349d-241a-4d45-b815-28ac30d86cfa
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://app.empresas.bs2.com."
+JavaScript error: resource://gre/modules/LoginManagerChild.jsm, line 113: NS_NOINTERFACE: Component returned failure code: 0x80004002 (NS_NOINTERFACE) [nsIWebProgress.DOMWindow]
+JavaScript error: resource://gre/modules/LoginManagerChild.jsm, line 113: NS_NOINTERFACE: Component returned failure code: 0x80004002 (NS_NOINTERFACE) [nsIWebProgress.DOMWindow]
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://app.empresas.bs2.com."
+1667913310838	geckodriver	INFO	Listening on 127.0.0.1:49359
+1667913313943	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "49360" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\RODRIG~1.MEN\\AppData\\Local\\Temp\\rust_mozprofileOrrSgY"
+1667913314231	Marionette	INFO	Marionette enabled
+1667913314235	Marionette	INFO	Listening on port 49369
+Read port: 49369
+WebDriver BiDi listening on ws://127.0.0.1:49360
+1667913314382	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\RODRIG~1.MEN\\AppData\\Local\\Temp\\rust_mozprofileOrrSgY\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:49360/devtools/browser/633fee5f-10cf-4b86-8b36-8880998d275e
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://app.empresas.bs2.com."
+JavaScript error: resource://gre/modules/LoginManagerChild.jsm, line 113: NS_NOINTERFACE: Component returned failure code: 0x80004002 (NS_NOINTERFACE) [nsIWebProgress.DOMWindow]
+JavaScript error: resource://gre/modules/LoginManagerChild.jsm, line 113: NS_NOINTERFACE: Component returned failure code: 0x80004002 (NS_NOINTERFACE) [nsIWebProgress.DOMWindow]
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://app.empresas.bs2.com."
+1667913334967	Marionette	INFO	Stopped listening on port 49369
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1667913340703	geckodriver	INFO	Listening on 127.0.0.1:49533
+1667913343910	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "49534" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\RODRIG~1.MEN\\AppData\\Local\\Temp\\rust_mozprofilepTWqW4"
+1667913344323	Marionette	INFO	Marionette enabled
+1667913344327	Marionette	INFO	Listening on port 49544
+Read port: 49544
+WebDriver BiDi listening on ws://127.0.0.1:49534
+1667913344633	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\RODRIG~1.MEN\\AppData\\Local\\Temp\\rust_mozprofilepTWqW4\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:49534/devtools/browser/54640642-4c01-4008-9e93-323e2351650b
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://app.empresas.bs2.com."
+JavaScript error: resource://gre/modules/LoginManagerChild.jsm, line 113: NS_NOINTERFACE: Component returned failure code: 0x80004002 (NS_NOINTERFACE) [nsIWebProgress.DOMWindow]
+JavaScript error: resource://gre/modules/LoginManagerChild.jsm, line 113: NS_NOINTERFACE: Component returned failure code: 0x80004002 (NS_NOINTERFACE) [nsIWebProgress.DOMWindow]
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://app.empresas.bs2.com."
+1667913400741	Marionette	INFO	Stopped listening on port 49544
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1667913443371	geckodriver	INFO	Listening on 127.0.0.1:49847
+1667913446448	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "49848" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\RODRIG~1.MEN\\AppData\\Local\\Temp\\rust_mozprofilekhmdbW"
+1667913446732	Marionette	INFO	Marionette enabled
+1667913446736	Marionette	INFO	Listening on port 49857
+Read port: 49857
+WebDriver BiDi listening on ws://127.0.0.1:49848
+1667913446888	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\RODRIG~1.MEN\\AppData\\Local\\Temp\\rust_mozprofilekhmdbW\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:49848/devtools/browser/d83c96e0-59b1-4dd9-819c-bfd8ae5d06c6
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://app.empresas.bs2.com."
+JavaScript error: resource://gre/modules/LoginManagerChild.jsm, line 113: NS_NOINTERFACE: Component returned failure code: 0x80004002 (NS_NOINTERFACE) [nsIWebProgress.DOMWindow]
+JavaScript error: resource://gre/modules/LoginManagerChild.jsm, line 113: NS_NOINTERFACE: Component returned failure code: 0x80004002 (NS_NOINTERFACE) [nsIWebProgress.DOMWindow]
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://app.empresas.bs2.com."
+1667913586571	geckodriver	INFO	Listening on 127.0.0.1:50228
+1667913589678	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "50229" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\RODRIG~1.MEN\\AppData\\Local\\Temp\\rust_mozprofileaYU9dv"
+1667913590237	Marionette	INFO	Marionette enabled
+1667913590241	Marionette	INFO	Listening on port 50341
+Read port: 50341
+WebDriver BiDi listening on ws://127.0.0.1:50229
+1667913590385	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\RODRIG~1.MEN\\AppData\\Local\\Temp\\rust_mozprofileaYU9dv\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:50229/devtools/browser/3cfdeb06-49ea-4d86-b68e-c66d883e7f48
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://app.empresas.bs2.com."
+JavaScript error: resource://gre/modules/LoginManagerChild.jsm, line 113: NS_NOINTERFACE: Component returned failure code: 0x80004002 (NS_NOINTERFACE) [nsIWebProgress.DOMWindow]
+JavaScript error: resource://gre/modules/LoginManagerChild.jsm, line 113: NS_NOINTERFACE: Component returned failure code: 0x80004002 (NS_NOINTERFACE) [nsIWebProgress.DOMWindow]
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://app.empresas.bs2.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: file://."
+1667913739538	Marionette	INFO	Stopped listening on port 50341
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1667913971977	geckodriver	INFO	Listening on 127.0.0.1:50924
+1667913975066	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "50925" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\RODRIG~1.MEN\\AppData\\Local\\Temp\\rust_mozprofileqB7x6P"
+1667913975352	Marionette	INFO	Marionette enabled
+1667913975357	Marionette	INFO	Listening on port 50934
+Read port: 50934
+WebDriver BiDi listening on ws://127.0.0.1:50925
+1667913975501	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\RODRIG~1.MEN\\AppData\\Local\\Temp\\rust_mozprofileqB7x6P\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:50925/devtools/browser/ccb21dad-4172-44ae-a75e-b6194a58c7a4
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://app.empresas.bs2.com."
+JavaScript error: resource://gre/modules/LoginManagerChild.jsm, line 113: NS_NOINTERFACE: Component returned failure code: 0x80004002 (NS_NOINTERFACE) [nsIWebProgress.DOMWindow]
+JavaScript error: resource://gre/modules/LoginManagerChild.jsm, line 113: NS_NOINTERFACE: Component returned failure code: 0x80004002 (NS_NOINTERFACE) [nsIWebProgress.DOMWindow]
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://app.empresas.bs2.com."
+1667914011034	Marionette	INFO	Stopped listening on port 50934
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1667914024439	geckodriver	INFO	Listening on 127.0.0.1:51207
+1667914027535	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "51208" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\RODRIG~1.MEN\\AppData\\Local\\Temp\\rust_mozprofileAFAlEe"
+1667914027834	Marionette	INFO	Marionette enabled
+1667914027838	Marionette	INFO	Listening on port 51217
+Read port: 51217
+WebDriver BiDi listening on ws://127.0.0.1:51208
+1667914027985	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\RODRIG~1.MEN\\AppData\\Local\\Temp\\rust_mozprofileAFAlEe\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:51208/devtools/browser/3015f051-4482-408d-992f-a0585bfa98d0
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://app.empresas.bs2.com."
+JavaScript error: resource://gre/modules/LoginManagerChild.jsm, line 113: NS_NOINTERFACE: Component returned failure code: 0x80004002 (NS_NOINTERFACE) [nsIWebProgress.DOMWindow]
+JavaScript error: resource://gre/modules/LoginManagerChild.jsm, line 113: NS_NOINTERFACE: Component returned failure code: 0x80004002 (NS_NOINTERFACE) [nsIWebProgress.DOMWindow]
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://app.empresas.bs2.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: file://."
+1667915101044	geckodriver	INFO	Listening on 127.0.0.1:52055
+1667915104124	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "52056" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\RODRIG~1.MEN\\AppData\\Local\\Temp\\rust_mozprofile8PHJsj"
+1667915104447	Marionette	INFO	Marionette enabled
+1667915104451	Marionette	INFO	Listening on port 52065
+Read port: 52065
+WebDriver BiDi listening on ws://127.0.0.1:52056
+1667915104611	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\RODRIG~1.MEN\\AppData\\Local\\Temp\\rust_mozprofile8PHJsj\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:52056/devtools/browser/4aeb03d4-f024-4de3-9428-89d5a87d5244
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://app.empresas.bs2.com."
+JavaScript error: resource://gre/modules/LoginManagerChild.jsm, line 113: NS_NOINTERFACE: Component returned failure code: 0x80004002 (NS_NOINTERFACE) [nsIWebProgress.DOMWindow]
+JavaScript error: resource://gre/modules/LoginManagerChild.jsm, line 113: NS_NOINTERFACE: Component returned failure code: 0x80004002 (NS_NOINTERFACE) [nsIWebProgress.DOMWindow]
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://app.empresas.bs2.com."
+1667915238663	Marionette	INFO	Stopped listening on port 52065
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1667915250519	geckodriver	INFO	Listening on 127.0.0.1:52371
+1667915253594	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "52372" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\RODRIG~1.MEN\\AppData\\Local\\Temp\\rust_mozprofileYbPytk"
+1667915253881	Marionette	INFO	Marionette enabled
+1667915253885	Marionette	INFO	Listening on port 52381
+Read port: 52381
+WebDriver BiDi listening on ws://127.0.0.1:52372
+1667915254027	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\RODRIG~1.MEN\\AppData\\Local\\Temp\\rust_mozprofileYbPytk\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:52372/devtools/browser/587ba98d-99d2-4461-a5c6-454d20fd99e4
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://app.empresas.bs2.com."
+JavaScript error: resource://gre/modules/LoginManagerChild.jsm, line 113: NS_NOINTERFACE: Component returned failure code: 0x80004002 (NS_NOINTERFACE) [nsIWebProgress.DOMWindow]
+JavaScript error: resource://gre/modules/LoginManagerChild.jsm, line 113: NS_NOINTERFACE: Component returned failure code: 0x80004002 (NS_NOINTERFACE) [nsIWebProgress.DOMWindow]
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://app.empresas.bs2.com."
+1667915394068	Marionette	INFO	Stopped listening on port 52381
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1667915432980	geckodriver	INFO	Listening on 127.0.0.1:52732
+1667915436050	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "52733" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\RODRIG~1.MEN\\AppData\\Local\\Temp\\rust_mozprofilemzv1mC"
+1667915436334	Marionette	INFO	Marionette enabled
+1667915436338	Marionette	INFO	Listening on port 52743
+Read port: 52743
+WebDriver BiDi listening on ws://127.0.0.1:52733
+1667915436482	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\RODRIG~1.MEN\\AppData\\Local\\Temp\\rust_mozprofilemzv1mC\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:52733/devtools/browser/a512084a-91d9-4d90-b98d-07ab65758393
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://app.empresas.bs2.com."
+JavaScript error: resource://gre/modules/LoginManagerChild.jsm, line 113: NS_NOINTERFACE: Component returned failure code: 0x80004002 (NS_NOINTERFACE) [nsIWebProgress.DOMWindow]
+JavaScript error: resource://gre/modules/LoginManagerChild.jsm, line 113: NS_NOINTERFACE: Component returned failure code: 0x80004002 (NS_NOINTERFACE) [nsIWebProgress.DOMWindow]
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://app.empresas.bs2.com."
+1667915454045	Marionette	INFO	Stopped listening on port 52743
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1667915459026	geckodriver	INFO	Listening on 127.0.0.1:52895
+1667915462120	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "52896" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\RODRIG~1.MEN\\AppData\\Local\\Temp\\rust_mozprofile4Pul2f"
+1667915462408	Marionette	INFO	Marionette enabled
+1667915462412	Marionette	INFO	Listening on port 52906
+Read port: 52906
+WebDriver BiDi listening on ws://127.0.0.1:52896
+1667915462557	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\RODRIG~1.MEN\\AppData\\Local\\Temp\\rust_mozprofile4Pul2f\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:52896/devtools/browser/035f71d3-84de-442a-9aac-e68bd98c222c
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://app.empresas.bs2.com."
+JavaScript error: resource://gre/modules/LoginManagerChild.jsm, line 113: NS_NOINTERFACE: Component returned failure code: 0x80004002 (NS_NOINTERFACE) [nsIWebProgress.DOMWindow]
+JavaScript error: resource://gre/modules/LoginManagerChild.jsm, line 113: NS_NOINTERFACE: Component returned failure code: 0x80004002 (NS_NOINTERFACE) [nsIWebProgress.DOMWindow]
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://app.empresas.bs2.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: file://."
+1667915589983	Marionette	INFO	Stopped listening on port 52906
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1667915752665	geckodriver	INFO	Listening on 127.0.0.1:58403
+1667915755753	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "58404" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\RODRIG~1.MEN\\AppData\\Local\\Temp\\rust_mozprofileYMs6UX"
+1667915756035	Marionette	INFO	Marionette enabled
+1667915756039	Marionette	INFO	Listening on port 58414
+Read port: 58414
+WebDriver BiDi listening on ws://127.0.0.1:58404
+1667915756184	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\RODRIG~1.MEN\\AppData\\Local\\Temp\\rust_mozprofileYMs6UX\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:58404/devtools/browser/4812060a-ab3e-4952-98a8-40ab89ac386d
+1667915760793	Marionette	INFO	Stopped listening on port 58414
+1667915809373	geckodriver	INFO	Listening on 127.0.0.1:58486
+1667915812453	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "58487" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\RODRIG~1.MEN\\AppData\\Local\\Temp\\rust_mozprofile66dfsQ"
+1667915812734	Marionette	INFO	Marionette enabled
+1667915812738	Marionette	INFO	Listening on port 58499
+Read port: 58499
+WebDriver BiDi listening on ws://127.0.0.1:58487
+1667915812883	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\RODRIG~1.MEN\\AppData\\Local\\Temp\\rust_mozprofile66dfsQ\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:58487/devtools/browser/f35cb1f3-0ef9-4f22-82ca-e7ac76155326
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://app.empresas.bs2.com."
+JavaScript error: resource://gre/modules/LoginManagerChild.jsm, line 113: NS_NOINTERFACE: Component returned failure code: 0x80004002 (NS_NOINTERFACE) [nsIWebProgress.DOMWindow]
+JavaScript error: resource://gre/modules/LoginManagerChild.jsm, line 113: NS_NOINTERFACE: Component returned failure code: 0x80004002 (NS_NOINTERFACE) [nsIWebProgress.DOMWindow]
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://app.empresas.bs2.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: file://."
+1667915947380	Marionette	INFO	Stopped listening on port 58499
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1667916450766	geckodriver	INFO	Listening on 127.0.0.1:59344
+1667916453840	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "59345" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\RODRIG~1.MEN\\AppData\\Local\\Temp\\rust_mozprofileD57cAN"
+1667916454135	Marionette	INFO	Marionette enabled
+1667916454139	Marionette	INFO	Listening on port 59356
+Read port: 59356
+WebDriver BiDi listening on ws://127.0.0.1:59345
+1667916454286	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\RODRIG~1.MEN\\AppData\\Local\\Temp\\rust_mozprofileD57cAN\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:59345/devtools/browser/d96f005b-99f9-4918-8896-ab9a8ce0aa17
+1667916462640	Marionette	INFO	Stopped listening on port 59356
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1667917209363	geckodriver	INFO	Listening on 127.0.0.1:59961
+1667917212460	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "59962" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\RODRIG~1.MEN\\AppData\\Local\\Temp\\rust_mozprofileqnJGp8"
+1667917212757	Marionette	INFO	Marionette enabled
+1667917212761	Marionette	INFO	Listening on port 59971
+Read port: 59971
+WebDriver BiDi listening on ws://127.0.0.1:59962
+1667917212906	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\RODRIG~1.MEN\\AppData\\Local\\Temp\\rust_mozprofileqnJGp8\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:59962/devtools/browser/5ac6ac06-6b8f-403b-b9b8-8ad200ad5aad
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://app.empresas.bs2.com."
+JavaScript error: resource://gre/modules/LoginManagerChild.jsm, line 113: NS_NOINTERFACE: Component returned failure code: 0x80004002 (NS_NOINTERFACE) [nsIWebProgress.DOMWindow]
+JavaScript error: resource://gre/modules/LoginManagerChild.jsm, line 113: NS_NOINTERFACE: Component returned failure code: 0x80004002 (NS_NOINTERFACE) [nsIWebProgress.DOMWindow]
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://app.empresas.bs2.com."
+1667917291043	Marionette	INFO	Stopped listening on port 59971
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1667917297327	geckodriver	INFO	Listening on 127.0.0.1:60244
+1667917300441	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "60245" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\RODRIG~1.MEN\\AppData\\Local\\Temp\\rust_mozprofilegjhShd"
+1667917300728	Marionette	INFO	Marionette enabled
+1667917300732	Marionette	INFO	Listening on port 60254
+Read port: 60254
+WebDriver BiDi listening on ws://127.0.0.1:60245
+1667917300886	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\RODRIG~1.MEN\\AppData\\Local\\Temp\\rust_mozprofilegjhShd\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:60245/devtools/browser/cb8899a9-e750-48bc-915a-d96602f79b4d
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://app.empresas.bs2.com."
+JavaScript error: resource://gre/modules/LoginManagerChild.jsm, line 113: NS_NOINTERFACE: Component returned failure code: 0x80004002 (NS_NOINTERFACE) [nsIWebProgress.DOMWindow]
+JavaScript error: resource://gre/modules/LoginManagerChild.jsm, line 113: NS_NOINTERFACE: Component returned failure code: 0x80004002 (NS_NOINTERFACE) [nsIWebProgress.DOMWindow]
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://app.empresas.bs2.com."
+1667917364625	geckodriver	INFO	Listening on 127.0.0.1:60633
+1667917367712	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "60634" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\RODRIG~1.MEN\\AppData\\Local\\Temp\\rust_mozprofileR6JX73"
+1667917368000	Marionette	INFO	Marionette enabled
+1667917368005	Marionette	INFO	Listening on port 60644
+Read port: 60644
+WebDriver BiDi listening on ws://127.0.0.1:60634
+1667917368149	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\RODRIG~1.MEN\\AppData\\Local\\Temp\\rust_mozprofileR6JX73\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:60634/devtools/browser/529ac7da-f414-4c1c-96ba-7c60d5270b0e
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://app.empresas.bs2.com."
+JavaScript error: resource://gre/modules/LoginManagerChild.jsm, line 113: NS_NOINTERFACE: Component returned failure code: 0x80004002 (NS_NOINTERFACE) [nsIWebProgress.DOMWindow]
+JavaScript error: resource://gre/modules/LoginManagerChild.jsm, line 113: NS_NOINTERFACE: Component returned failure code: 0x80004002 (NS_NOINTERFACE) [nsIWebProgress.DOMWindow]
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://app.empresas.bs2.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: file://."
