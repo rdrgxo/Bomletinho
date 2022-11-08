@@ -2,8 +2,6 @@ from time import sleep
 from selenium import webdriver
 from selenium.webdriver.common.keys import Keys
 import pandas as pd
-from selenium.webdriver.firefox.service import Service
-from tratar_mes import tratar_mes
 
 navegador = webdriver.Firefox()
 navegador.get('https://app.empresas.bs2.com/bs2/autenticacao')
@@ -43,7 +41,17 @@ def tela_boleto():
     sleep(2)
     carteira = navegador.find_element('css selector', 'a[id="link-emitir-boleto"]').click()
     sleep(2)
-    tipo_carteira = navegador.find_element('css selector','a[id="link-emitir-individual"]').click()    
+    tipo_carteira = navegador.find_element('css selector','a[id="link-emitir-individual"]').click()  
+    
+def tratar_mes(mes):
+    meses_extenso = ['janeiro', 'fevereiro', 'março', 'abril', 'maio', 'junho', 'julho', 'agosto', 'setembro', 'outubro', 'novembro', 'dezembro']
+    mes_tratado = ''
+
+    for pos, var in enumerate(meses_extenso):
+        if pos == int(mes)-1:
+            mes_tratado = var
+            return mes_tratado    
+      
       
 def emitir_boleto():
     
@@ -103,3 +111,4 @@ if __name__ == '__main__':
     tipo_boleto()
     tela_boleto()
     emitir_boleto()
+    tratar_mes()
