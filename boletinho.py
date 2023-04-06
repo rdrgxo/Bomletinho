@@ -14,8 +14,8 @@ def login():
     sleep(2)
     enter_element = navegador.find_element('css selector', 'span[class="mat-button-wrapper"]')
 
-    login_element.send_keys('anasantana')
-    password_element.send_keys('Avonale@22')
+    login_element.send_keys('')
+    password_element.send_keys('')
     enter_element.click()
     
     sleep(5)
